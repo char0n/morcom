@@ -1,0 +1,11 @@
+
+
+Packed program must be unpacked to c:\
+this is all configuration.
+
+
+
+
+
+                        This program run only in Windows and dos mode
+                                 char0n [-==mortality==-]

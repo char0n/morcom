@@ -1,0 +1,6 @@
+Write command :cat -e .Enter parametres example":c:\vc".
+You will see command line.There write "edit and name of
+file which you want to edit.
+
+
+                char0 [-==mortality==-]

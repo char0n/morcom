@@ -1,0 +1,6 @@
+If you have the morcom.bat configurate click on morcom.bat.Yuo will see
+blue screen with source of morcom.mor.Press <F5> and good morcomming.
+For exit program write commnand exit or quit.
+
+ 
+                     char0n [-==mortality==-]

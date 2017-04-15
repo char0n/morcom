@@ -1,0 +1,6 @@
+Write commnad :vc
+Then you will see command line.There write again
+vc.Program will run.
+
+
+           char0n [-==mortality==-]

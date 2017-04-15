@@ -1,0 +1,6 @@
+If you are somewhere in c:\program files you can't
+use help command.You must write command :back and
+then write :help OR help/sector2.
+
+
+                 char0n [-==mortality==-]

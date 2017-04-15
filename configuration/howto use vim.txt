@@ -1,0 +1,6 @@
+Write command :vim and you will see the basic command.
+Then write "vim" again and program vim will run.
+
+
+               char0n [-==mortality==-] 
+                           

@@ -1,0 +1,6 @@
+Enter c:\morcom\tools\package and click to gzip124.exe.The program will unpack
+and you can start with package.Start morcom.mor and enter command:pack or
+:unpack.You will see command line and then write commnad gzip -h.
+You will see the help menu.
+
+              char0n  [-==mortality==-]

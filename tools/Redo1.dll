@@ -1,0 +1,19 @@
+clear         - clear all the system
+exit          - exit system 
+quit          - exit system 
+help          - show help   
+restart       - restart system 
+mk            - create a new file   
+cd            - enter the file <DIR>
+mkdir         - create file <DIR>
+help\sector2  - show help in sector 2
+help/sector2  - show help in sector 2 
+mkdir floppy  - create diskette drive a:\
+mount floppy  - enter floppy
+pico          - text editor
+rm            - delete file
+rmdir         - delete file <DIR>
+pwd           - locate your position
+rmdir floppy  - delete diskette drive a:\
+ls            - show contains of file <DIR>
+cat           - view source
